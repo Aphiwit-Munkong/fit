@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         productImage.src = 'รูป/chocolate-cookies.webp';
                         break;
                     case 'nom-yen':
-                        productImage.src = 'รูป/nom-yen.webp';
+                        productImage.src = 'รูป/Nom-yen.webp';
                         break;
                     case 'cafe-mocha':
                         productImage.src = 'รูป/cafe-mocha.webp';
